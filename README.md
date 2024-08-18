@@ -9,7 +9,7 @@ We scrape the website https://books.toscrape.com/ but you can change the code to
 Install dependencies
 
 ```bash
-cd web-scraper-node
+cd node-scrape
 npm install
 ```
 
@@ -24,7 +24,7 @@ node scrape
 Install dependencies
 
 ```bash
-cd web-scraper-python
+cd python-scrape
 pip install -r requirements.txt
 ```
 
